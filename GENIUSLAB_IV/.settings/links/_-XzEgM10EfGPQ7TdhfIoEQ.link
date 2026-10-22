@@ -1,0 +1,124 @@
+{
+  "itemId" : "_-XzEgM10EfGPQ7TdhfIoEQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_qmJGoM1uEfGPQ7TdhfIoEQ",
+    "parameterList" : [ {
+      "id" : "_0T0cAcyhEfGpmPmkwoojFQ",
+      "name" : "DB_HOST"
+    }, {
+      "id" : "_0T0cAsyhEfGpmPmkwoojFQ",
+      "name" : "DB_NAME"
+    }, {
+      "id" : "_0T0cA8yhEfGpmPmkwoojFQ",
+      "name" : "DB_USER"
+    }, {
+      "id" : "_0T0cBMyhEfGpmPmkwoojFQ",
+      "name" : "DB_PASSWORD"
+    }, {
+      "id" : "_Dz9JEMyiEfGpmPmkwoojFQ",
+      "name" : "DB_PORT"
+    }, {
+      "id" : "_fZK8IMyjEfGpmPmkwoojFQ",
+      "name" : "LOAD_SOURCE_TAG"
+    }, {
+      "id" : "_TQ-48My8EfGpmPmkwoojFQ",
+      "name" : "FILE_OLIST_CUSTOMERS"
+    }, {
+      "id" : "_ODdccMzCEfGpmPmkwoojFQ",
+      "name" : "FILE_OLIST_ORDERS"
+    }, {
+      "id" : "_2gpAcMzDEfGpmPmkwoojFQ",
+      "name" : "LOAD_SOURCE_TAG_LAB05"
+    }, {
+      "id" : "_sgRbkM1vEfGPQ7TdhfIoEQ",
+      "name" : "FILE_OLIST_PRODUCTS"
+    }, {
+      "id" : "_CXo7AM1xEfGPQ7TdhfIoEQ",
+      "name" : "DB_NAME_DWH"
+    }, {
+      "id" : "_DfSDEM1yEfGPQ7TdhfIoEQ",
+      "name" : "PIPELINE_NAME"
+    } ]
+  }, {
+    "contextName" : "QA",
+    "repoId" : "_qmJGoM1uEfGPQ7TdhfIoEQ",
+    "parameterList" : [ {
+      "id" : "_S8k-4c1vEfGPQ7TdhfIoEQ",
+      "name" : "DB_HOST"
+    }, {
+      "id" : "_S8k-4s1vEfGPQ7TdhfIoEQ",
+      "name" : "DB_NAME"
+    }, {
+      "id" : "_S8k-481vEfGPQ7TdhfIoEQ",
+      "name" : "DB_USER"
+    }, {
+      "id" : "_S8k-5M1vEfGPQ7TdhfIoEQ",
+      "name" : "DB_PASSWORD"
+    }, {
+      "id" : "_S8k-5c1vEfGPQ7TdhfIoEQ",
+      "name" : "DB_PORT"
+    }, {
+      "id" : "_S8k-5s1vEfGPQ7TdhfIoEQ",
+      "name" : "LOAD_SOURCE_TAG"
+    }, {
+      "id" : "_S8k-581vEfGPQ7TdhfIoEQ",
+      "name" : "FILE_OLIST_CUSTOMERS"
+    }, {
+      "id" : "_S8k-6M1vEfGPQ7TdhfIoEQ",
+      "name" : "FILE_OLIST_ORDERS"
+    }, {
+      "id" : "_S8k-6c1vEfGPQ7TdhfIoEQ",
+      "name" : "LOAD_SOURCE_TAG_LAB05"
+    }, {
+      "id" : "_sgRbkc1vEfGPQ7TdhfIoEQ",
+      "name" : "FILE_OLIST_PRODUCTS"
+    }, {
+      "id" : "_CXpiEM1xEfGPQ7TdhfIoEQ",
+      "name" : "DB_NAME_DWH"
+    }, {
+      "id" : "_DfSDEc1yEfGPQ7TdhfIoEQ",
+      "name" : "PIPELINE_NAME"
+    } ]
+  }, {
+    "contextName" : "PROD",
+    "repoId" : "_qmJGoM1uEfGPQ7TdhfIoEQ",
+    "parameterList" : [ {
+      "id" : "_S8k-681vEfGPQ7TdhfIoEQ",
+      "name" : "DB_HOST"
+    }, {
+      "id" : "_S8k-7M1vEfGPQ7TdhfIoEQ",
+      "name" : "DB_NAME"
+    }, {
+      "id" : "_S8k-7c1vEfGPQ7TdhfIoEQ",
+      "name" : "DB_USER"
+    }, {
+      "id" : "_S8k-7s1vEfGPQ7TdhfIoEQ",
+      "name" : "DB_PASSWORD"
+    }, {
+      "id" : "_S8k-781vEfGPQ7TdhfIoEQ",
+      "name" : "DB_PORT"
+    }, {
+      "id" : "_S8k-8M1vEfGPQ7TdhfIoEQ",
+      "name" : "LOAD_SOURCE_TAG"
+    }, {
+      "id" : "_S8k-8c1vEfGPQ7TdhfIoEQ",
+      "name" : "FILE_OLIST_CUSTOMERS"
+    }, {
+      "id" : "_S8k-8s1vEfGPQ7TdhfIoEQ",
+      "name" : "FILE_OLIST_ORDERS"
+    }, {
+      "id" : "_S8k-881vEfGPQ7TdhfIoEQ",
+      "name" : "LOAD_SOURCE_TAG_LAB05"
+    }, {
+      "id" : "_sgSpsM1vEfGPQ7TdhfIoEQ",
+      "name" : "FILE_OLIST_PRODUCTS"
+    }, {
+      "id" : "_CXpiEc1xEfGPQ7TdhfIoEQ",
+      "name" : "DB_NAME_DWH"
+    }, {
+      "id" : "_DfSDEs1yEfGPQ7TdhfIoEQ",
+      "name" : "PIPELINE_NAME"
+    } ]
+  } ]
+}

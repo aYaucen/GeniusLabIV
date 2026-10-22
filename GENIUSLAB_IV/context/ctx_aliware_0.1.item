@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_0T0cAMyhEfGpmPmkwoojFQ" confirmationNeeded="false" hide="false" name="Default">
+    <contextParameter xmi:id="_0T0cAcyhEfGpmPmkwoojFQ" comment="" name="DB_HOST" prompt="DB_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="209.50.245.36"/>
+    <contextParameter xmi:id="_0T0cAsyhEfGpmPmkwoojFQ" comment="" name="DB_NAME" prompt="DB_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DSADEV"/>
+    <contextParameter xmi:id="_0T0cA8yhEfGpmPmkwoojFQ" comment="" name="DB_USER" prompt="DB_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dev_genius"/>
+    <contextParameter xmi:id="_0T0cBMyhEfGpmPmkwoojFQ" comment="" name="DB_PASSWORD" prompt="DB_PASSWORD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:vsdOLJL6Au/4ILvf5ybjgXzXJuUEZn80udhLXo+qG3EiFIyohPjtN63dIps="/>
+    <contextParameter xmi:id="_Dz9JEMyiEfGpmPmkwoojFQ" comment="" name="DB_PORT" prompt="DB_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_fZK8IMyjEfGpmPmkwoojFQ" comment="" name="LOAD_SOURCE_TAG" prompt="LOAD_SOURCE_TAG?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab05_olist_orders_enriched"/>
+    <contextParameter xmi:id="_TQ-48My8EfGpmPmkwoojFQ" comment="" name="FILE_OLIST_CUSTOMERS" prompt="FILE_OLIST_CUSTOMERS?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="D:/Fuentes_CSV_GeniusLabIV/customers.csv"/>
+    <contextParameter xmi:id="_ODdccMzCEfGpmPmkwoojFQ" comment="" name="FILE_OLIST_ORDERS" prompt="FILE_OLIST_ORDERS?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="D:/Fuentes_CSV_GeniusLabIV/orders.csv"/>
+    <contextParameter xmi:id="_2gpAcMzDEfGpmPmkwoojFQ" comment="" name="LOAD_SOURCE_TAG_LAB05" prompt="LOAD_SOURCE_TAG_LAB05?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab05_olist_orders_enriched"/>
+    <contextParameter xmi:id="_sgRbkM1vEfGPQ7TdhfIoEQ" comment="" name="FILE_OLIST_PRODUCTS" prompt="FILE_OLIST_PRODUCTS?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="D:/Fuentes_CSV_GeniusLabIV/products.csv"/>
+    <contextParameter xmi:id="_CXo7AM1xEfGPQ7TdhfIoEQ" comment="" name="DB_NAME_DWH" prompt="DB_NAME_DWH?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DWHDEV"/>
+    <contextParameter xmi:id="_DfSDEM1yEfGPQ7TdhfIoEQ" comment="" name="PIPELINE_NAME" prompt="PIPELINE_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab06_olist_pipeline"/>
+    <contextParameter xmi:id="_yu7_0M3IEfGPQ7TdhfIoEQ" comment="" name="SMTP_HOST" prompt="SMTP_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="smtp.gmail.com"/>
+    <contextParameter xmi:id="_yu7_0c3IEfGPQ7TdhfIoEQ" comment="" name="SMTP_PORT" prompt="SMTP_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="587"/>
+    <contextParameter xmi:id="_yu7_0s3IEfGPQ7TdhfIoEQ" comment="" name="SMTP_USER" prompt="SMTP_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="jayaucenr@gmail.com"/>
+    <contextParameter xmi:id="_yu7_083IEfGPQ7TdhfIoEQ" comment="" name="SMTP_PASSWORD" prompt="SMTP_PASSWORD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:3DbDCOL3BO2Hy95sX8AoevBhSxjNDU+hV+IlGGCOu74TiXHua1e79modcq2wcpI="/>
+    <contextParameter xmi:id="_yu7_1M3IEfGPQ7TdhfIoEQ" comment="" name="MAIL_TO" prompt="MAIL_TO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="mr.yauale@gmail.com"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_S8k-4M1vEfGPQ7TdhfIoEQ" confirmationNeeded="false" hide="false" name="QA">
+    <contextParameter xmi:id="_S8k-4c1vEfGPQ7TdhfIoEQ" comment="" name="DB_HOST" prompt="DB_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="209.10.245.36"/>
+    <contextParameter xmi:id="_S8k-4s1vEfGPQ7TdhfIoEQ" comment="" name="DB_NAME" prompt="DB_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DSADEV"/>
+    <contextParameter xmi:id="_S8k-481vEfGPQ7TdhfIoEQ" comment="" name="DB_USER" prompt="DB_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dev_genius"/>
+    <contextParameter xmi:id="_S8k-5M1vEfGPQ7TdhfIoEQ" comment="" name="DB_PASSWORD" prompt="DB_PASSWORD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:vsdOLJL6Au/4ILvf5ybjgXzXJuUEZn80udhLXo+qG3EiFIyohPjtN63dIps="/>
+    <contextParameter xmi:id="_S8k-5c1vEfGPQ7TdhfIoEQ" comment="" name="DB_PORT" prompt="DB_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_S8k-5s1vEfGPQ7TdhfIoEQ" comment="" name="LOAD_SOURCE_TAG" prompt="LOAD_SOURCE_TAG?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab05_olist_orders_enriched"/>
+    <contextParameter xmi:id="_S8k-581vEfGPQ7TdhfIoEQ" comment="" name="FILE_OLIST_CUSTOMERS" prompt="FILE_OLIST_CUSTOMERS?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="D:/Fuentes_CSV_GeniusLabIV/customers.csv"/>
+    <contextParameter xmi:id="_S8k-6M1vEfGPQ7TdhfIoEQ" comment="" name="FILE_OLIST_ORDERS" prompt="FILE_OLIST_ORDERS?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="D:/Fuentes_CSV_GeniusLabIV/orders.csv"/>
+    <contextParameter xmi:id="_S8k-6c1vEfGPQ7TdhfIoEQ" comment="" name="LOAD_SOURCE_TAG_LAB05" prompt="LOAD_SOURCE_TAG_LAB05?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab05_olist_orders_enriched"/>
+    <contextParameter xmi:id="_sgRbkc1vEfGPQ7TdhfIoEQ" comment="" name="FILE_OLIST_PRODUCTS" prompt="FILE_OLIST_PRODUCTS?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="D:/Fuentes_CSV_GeniusLabIV/products.csv"/>
+    <contextParameter xmi:id="_CXpiEM1xEfGPQ7TdhfIoEQ" comment="" name="DB_NAME_DWH" prompt="DB_NAME_DWH?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DWHDEV"/>
+    <contextParameter xmi:id="_DfSDEc1yEfGPQ7TdhfIoEQ" comment="" name="PIPELINE_NAME" prompt="PIPELINE_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab06_olist_pipeline"/>
+    <contextParameter xmi:id="_yu7_1c3IEfGPQ7TdhfIoEQ" comment="" name="SMTP_HOST" prompt="SMTP_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_yu7_1s3IEfGPQ7TdhfIoEQ" comment="" name="SMTP_PORT" prompt="SMTP_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_yu7_183IEfGPQ7TdhfIoEQ" comment="" name="SMTP_USER" prompt="SMTP_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_yu7_2M3IEfGPQ7TdhfIoEQ" comment="" name="SMTP_PASSWORD" prompt="SMTP_PASSWORD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
+    <contextParameter xmi:id="_yu7_2c3IEfGPQ7TdhfIoEQ" comment="" name="MAIL_TO" prompt="MAIL_TO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_S8k-6s1vEfGPQ7TdhfIoEQ" confirmationNeeded="false" hide="false" name="PROD">
+    <contextParameter xmi:id="_S8k-681vEfGPQ7TdhfIoEQ" comment="" name="DB_HOST" prompt="DB_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="209.10.245.36"/>
+    <contextParameter xmi:id="_S8k-7M1vEfGPQ7TdhfIoEQ" comment="" name="DB_NAME" prompt="DB_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DSADEV"/>
+    <contextParameter xmi:id="_S8k-7c1vEfGPQ7TdhfIoEQ" comment="" name="DB_USER" prompt="DB_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dev_genius"/>
+    <contextParameter xmi:id="_S8k-7s1vEfGPQ7TdhfIoEQ" comment="" name="DB_PASSWORD" prompt="DB_PASSWORD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:vsdOLJL6Au/4ILvf5ybjgXzXJuUEZn80udhLXo+qG3EiFIyohPjtN63dIps="/>
+    <contextParameter xmi:id="_S8k-781vEfGPQ7TdhfIoEQ" comment="" name="DB_PORT" prompt="DB_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_S8k-8M1vEfGPQ7TdhfIoEQ" comment="" name="LOAD_SOURCE_TAG" prompt="LOAD_SOURCE_TAG?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab05_olist_orders_enriched"/>
+    <contextParameter xmi:id="_S8k-8c1vEfGPQ7TdhfIoEQ" comment="" name="FILE_OLIST_CUSTOMERS" prompt="FILE_OLIST_CUSTOMERS?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="D:/Fuentes_CSV_GeniusLabIV/customers.csv"/>
+    <contextParameter xmi:id="_S8k-8s1vEfGPQ7TdhfIoEQ" comment="" name="FILE_OLIST_ORDERS" prompt="FILE_OLIST_ORDERS?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="D:/Fuentes_CSV_GeniusLabIV/orders.csv"/>
+    <contextParameter xmi:id="_S8k-881vEfGPQ7TdhfIoEQ" comment="" name="LOAD_SOURCE_TAG_LAB05" prompt="LOAD_SOURCE_TAG_LAB05?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab05_olist_orders_enriched"/>
+    <contextParameter xmi:id="_sgSpsM1vEfGPQ7TdhfIoEQ" comment="" name="FILE_OLIST_PRODUCTS" prompt="FILE_OLIST_PRODUCTS?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="D:/Fuentes_CSV_GeniusLabIV/products.csv"/>
+    <contextParameter xmi:id="_CXpiEc1xEfGPQ7TdhfIoEQ" comment="" name="DB_NAME_DWH" prompt="DB_NAME_DWH?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DWHDEV"/>
+    <contextParameter xmi:id="_DfSDEs1yEfGPQ7TdhfIoEQ" comment="" name="PIPELINE_NAME" prompt="PIPELINE_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab06_olist_pipeline"/>
+    <contextParameter xmi:id="_yu7_2s3IEfGPQ7TdhfIoEQ" comment="" name="SMTP_HOST" prompt="SMTP_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_yu7_283IEfGPQ7TdhfIoEQ" comment="" name="SMTP_PORT" prompt="SMTP_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_yu7_3M3IEfGPQ7TdhfIoEQ" comment="" name="SMTP_USER" prompt="SMTP_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_yu7_3c3IEfGPQ7TdhfIoEQ" comment="" name="SMTP_PASSWORD" prompt="SMTP_PASSWORD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
+    <contextParameter xmi:id="_yu7_3s3IEfGPQ7TdhfIoEQ" comment="" name="MAIL_TO" prompt="MAIL_TO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>

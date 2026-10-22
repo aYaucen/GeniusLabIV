@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_qBrPIMvjEfGRw4vxUGVQuA" label="GeniusLab_IV" description="Repositorio e github para proyectos en GeniusLabIV" language="java" technicalLabel="GENIUSLAB_IV" author="_qBrPIcvjEfGRw4vxUGVQuA" productVersion="Qlik Talend Cloud Enterprise Edition-8.0.1.20260619_1127-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/aYaucen/GeniusLabIV.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_qDplEMvjEfGRw4vxUGVQuA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_qBrPIcvjEfGRw4vxUGVQuA" login="diego.coral@trial.6gcl60lrv5st8i3.us.qlikcloud.com" firstName="Alejandro" lastName="Yaucen" type="DQ"/>
+</xmi:XMI>

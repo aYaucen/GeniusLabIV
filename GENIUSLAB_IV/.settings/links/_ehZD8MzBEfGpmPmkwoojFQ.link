@@ -1,0 +1,35 @@
+{
+  "itemId" : "_ehZD8MzBEfGpmPmkwoojFQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_CFmyEMy8EfGpmPmkwoojFQ",
+    "parameterList" : [ {
+      "id" : "_0T0cAcyhEfGpmPmkwoojFQ",
+      "name" : "DB_HOST"
+    }, {
+      "id" : "_0T0cAsyhEfGpmPmkwoojFQ",
+      "name" : "DB_NAME"
+    }, {
+      "id" : "_0T0cA8yhEfGpmPmkwoojFQ",
+      "name" : "DB_USER"
+    }, {
+      "id" : "_0T0cBMyhEfGpmPmkwoojFQ",
+      "name" : "DB_PASSWORD"
+    }, {
+      "id" : "_Dz9JEMyiEfGpmPmkwoojFQ",
+      "name" : "DB_PORT"
+    }, {
+      "id" : "_fZK8IMyjEfGpmPmkwoojFQ",
+      "name" : "LOAD_SOURCE_TAG"
+    }, {
+      "id" : "_TQ-48My8EfGpmPmkwoojFQ",
+      "name" : "FILE_OLIST_CUSTOMERS"
+    }, {
+      "id" : "_ODdccMzCEfGpmPmkwoojFQ",
+      "name" : "FILE_OLIST_ORDERS"
+    }, {
+      "id" : "_2gpAcMzDEfGpmPmkwoojFQ",
+      "name" : "LOAD_SOURCE_TAG_LAB05"
+    } ]
+  } ]
+}
